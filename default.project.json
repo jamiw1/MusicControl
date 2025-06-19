@@ -1,5 +1,5 @@
 {
-  "name": "project",
+  "name": "musiccontrol",
   "tree": {
     "$className": "DataModel",
     "ReplicatedStorage": {

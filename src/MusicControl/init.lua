@@ -2,7 +2,7 @@
 
 MusicControl v2.1.0 (previously MusicPlayer) made with <3 by 2048ping
 
-now with typing, and OOP!
+now open source with typing, and OOP!
 
 credits:
 	Icon/TopbarPlus - ForeverHD, wouldn't be possible without this
