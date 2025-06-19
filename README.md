@@ -1,4 +1,7 @@
 original devforum post: https://devforum.roblox.com/t/musiccontrol-v210-an-extremely-customizable-yet-easy-to-use-music-displaycontrol/3760727
+
+install using Wally: https://wally.run/package/jamiw1/musiccontrol
+
 # MusicControl v2
 an extremely customizable, yet easy to use music display/control
 
