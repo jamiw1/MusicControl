@@ -1,0 +1,21 @@
+{
+  "name": "project",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "$className": "ReplicatedStorage",
+      "$ignoreUnknownInstances": false,
+      "MusicControl": {
+        "$path": "src/MusicControl",
+        "Packages" : {
+          "$path": "Packages"
+        }
+      }
+    },
+    "StarterGui": {
+      "$className": "StarterGui",
+      "$ignoreUnknownInstances": true,
+      "$path": "src/StarterGui"
+    }
+  }
+}
